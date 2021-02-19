@@ -13,7 +13,6 @@ Metadata information of each trial are included in this .CSV file, such title, l
 
 ## all_criteria_corpus
 Structured eligibility criteria with normalized concepts are included in this .CSV file.  
-
 Main columns:  
  	  **nct_id**: clinical trial ID in clinicaltrials.gov  
  	  **entity_source_text**: segment of the original description of the entity in the clinical trial eligibility criteria source text  
